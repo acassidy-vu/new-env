@@ -1,0 +1,4 @@
+name: new-env.yml
+channels:
+  - defaults
+prefix: C:\Users\annao\anaconda3\envs\new-env.yml
